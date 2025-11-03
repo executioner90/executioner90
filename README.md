@@ -20,7 +20,8 @@
 ### 👨‍💻 About Me
 - 🔭 Full Stack Developer from **Syria**  
 - 🌱 Always learning & improving myself  
-- ⚡ Exploring new tools & technologies in free time  
+- ⚡ Exploring new tools & technologies in free time
+- 🌐 [Portfolio](https://its-aldaas.vercel.app)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohammad-aldaas-6087b81b5/)
 
 ---
